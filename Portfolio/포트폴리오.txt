@@ -1,0 +1,24 @@
+작품명 : 게임 사전예약 사이트
+
+작품사이즈 : 1920x1080(FHD)
+
+제작 프로그램 : Visual Studio Code
+
+스킬 : tailwind css, procreate, 각종ai
+
+활용내용 : 스크립트를 이용해 교체되는 갤러리 생성, 
+보더 블러 기능을 이용하여 반투명 블럭 생성, 커스텀 폰트 사용, 
+tailwind css 각종 예시를 활용하여 여러 기능을 구현, 
+호버 기능을 이용하여 2가지 이미지를 표시,
+스크립트를 이용해 네비게이션 바를 숨김
+
+배포 url vercel.app
+
+
+메인페이지 index.html
+메뉴바 nav.html
+개인명함 story.html
+팀소개 character.html
+갤러리 gallery.html
+로그인 login.html
+문의양식 inqury.html
